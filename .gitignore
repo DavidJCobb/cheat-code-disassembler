@@ -1,0 +1,8 @@
+*.obj
+*.tlog
+*.pdb
+*.lastbuildstate
+
+sln/.vs/
+sln/*/x64/
+sln/x64/
