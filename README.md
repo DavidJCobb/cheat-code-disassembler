@@ -3,7 +3,7 @@ This is a quick-and-dirty program that I made so I can see what a set of Action 
 Special thanks to:
 
 * [Wunkolo](https://wunkolo.tumblr.com/post/144418662792), for encrypt/decrypt code for AR v3/v4
-* mGBA and their source code, which is effectively the most complete documentation of the Action Replay v3/v4 format I could find on the web. I didn't copy any code, but did learn the format from how they were handling it (while taking my own approach to things like bitpacked enums).
+* mGBA and [their source code](https://github.com/mgba-emu/mgba/tree/master/src/gba/cheats), which is effectively the most complete documentation of the Action Replay v3/v4 format I could find on the web. I didn't copy any code, but did learn the format from how they were handling it (while taking my own approach to things like bitpacked enums).
 * [EnHacklopedia](https://doc.kodewerx.org/hacking_gba.html#ardescribe), for covering the cases mGBA doesn't and for listing all possible permutations of AR codes (mGBA source code decomposes codes into their component parts; EnHacklopedia does not; this is useful for comparisons).
 
 ## Build environment
